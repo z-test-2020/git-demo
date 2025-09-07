@@ -2,3 +2,5 @@ hello git!
 test pull
 test push github`
 test pull two
+
+测试是否能够成功推送
